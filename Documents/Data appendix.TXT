@@ -1,0 +1,3 @@
+country - name of country
+alohol - kind of drunk alcohol
+amount - amount of drunk alcohol

@@ -1,0 +1,1 @@
+Data on amount of various kinds of alcohol drunk in each country.

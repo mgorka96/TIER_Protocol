@@ -1,0 +1,1 @@
+1. Run script "tide_drinks.py" in catalog C:/Users/Michał/Desktop/S7/AiBD/TIER Protocol Documentation/Command Files
